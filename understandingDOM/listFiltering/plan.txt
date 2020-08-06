@@ -1,0 +1,11 @@
+Build a page with a list of activities and filter input text box
+
+Display full list and filter through it in real time as user types
+
+Display on the results meeting the filter criteria
+
+Build basic page with HTML
+
+Style the page with CSS
+
+Write the Javascript code to perform the search and filter in real time
