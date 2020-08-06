@@ -1,0 +1,40 @@
+/* Style for the filtering list project*/
+
+body {
+    padding: 40px;
+    background: #5f9fff;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.search-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#search-bar {
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.adventures-container {
+    margin: 40px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.adventure {
+    width: 120px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background: white;
+}
