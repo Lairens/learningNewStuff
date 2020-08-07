@@ -1,0 +1,14 @@
+Build an interactive clientside form
+
+Form will have several data entry methods including text 
+inputs, checkbox(es), and a dropdown
+
+Form will respond to various input combinations and display
+appropriate alerts
+
+Build the page with HTML
+
+Style the page with CSS
+
+Write the Javascript to make the form interactive and responsive
+to inputs when submitted.
