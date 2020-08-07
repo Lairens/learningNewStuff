@@ -1,0 +1,10 @@
+DOM mechanics learned:
+
+ - Retrieving elements using DOM
+ - Retrieving and modifying element attributes using DOM
+ - Added elements to and removed element from DOM using Javascript
+ - Built a client-side basic form using DOM
+ - Built interactive flashcard display to put the add, remove and modify elements
+ in practice
+ - Built an interactive filtering search bar using the retrive attributes functions of 
+ the DOM.
