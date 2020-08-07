@@ -7,19 +7,21 @@ This page will host the form-->
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     <body>
-        <div>
-            <form action="">
+        <div class="container">
+            <form id="save-form">
                 Name: <br><input type="text"><br>
                 Address: <br><input type="text"><br>
                 Age: <br><input type="text"><br>
-                Pets: <br><input type="checkbox"><br>
-                Pet: <br><select name="" id="">
-                    <option value="">Dog</option>
-                    <option value="">Cat</option>
-                    <option value="">Bird</option>
-                    <option value="">Other</option>
-                </select><br>
-                <br><input type="submit" value="Book">
+                Pets: <br><input id="petCheckbox" type="checkbox"><br>
+                <div id="petSelection">
+                    Pet: <br><select name="" id="">
+                        <option value="">Dog</option>
+                        <option value="">Cat</option>
+                        <option value="">Bird</option>
+                        <option value="">Other</option>
+                    </select><br>
+                </div>
+                <br><input id="saveButton" type="submit" value="Save">
             </form>
         </div>
         <script src="js/script.js"></script>
