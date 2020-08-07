@@ -1,9 +1,5 @@
 /**Script to search through the list
- * It is still a barebones version
- * Planning on adding a non-case sensitive version of the search bar first,
- * then adding a functionality that still displays results based on letters
- * entered, even in a wrong order, as long as characters in the search bar
- * match the characters present in the strings of the adventureList[]
+ * 
  */
 let adventureList = [];
 
