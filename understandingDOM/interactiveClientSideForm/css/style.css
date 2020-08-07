@@ -16,3 +16,20 @@ body {
     border: thick solid lightgray;
     background-color: #5f9fff;
 }
+
+.textInput {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#petSelection {
+    margin-top: 10px;
+    display: none;
+}
+
+#saveButton {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background-color: lightgray;
+}
